@@ -1,0 +1,26 @@
+{
+  "name": "tinyspy-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/tinyspy-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/tinyspy-playground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/tinyspy-playground#readme",
+  "dependencies": {
+    "tinyspy": "^2.1.1"
+  },
+  "devDependencies": {
+    "vitest": "^0.32.2"
+  }
+}
